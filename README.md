@@ -7,6 +7,6 @@
 5. [數據組](./DataSet/DataSet.md)
 6. [變數](./Variable/Variable.md)
 7. [邏輯](./Logic/Logic.md)
-8. 迴圈
+8. [迴圈](./Loop/Loop.md)
 9. 函式
 10. 註解
